@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/72238126/171427331-b444eef3-eb4e-4b18-b215-3f72e9bc2226.png)
+![header](/assets/images/1.jpg)
 # Coverist - 북커버 생성 AI 서비스
 
 본 서비스는 웹 소설 작가 및 개인 출판 업자를 위한 북커버 생성 AI 서비스 입니다.
@@ -26,12 +26,12 @@
 
 
 # ScreenShot
-![header](./coverist.png)
+![header](/assets/images/2.jpg)
 
 <br>
 
 
 # Architecture
-![header](./coverist_arc.png)
+![header](/assets/images/3.jpg)
 
 <br>
